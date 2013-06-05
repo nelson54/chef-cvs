@@ -5,4 +5,4 @@ license           "Apache 2.0"
 description       "Installs CVS"
 version           "0.0.1
 
-recipe            "default", "Install CVS"
+recipe            "chef-cvs", "Install CVS"
